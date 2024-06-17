@@ -38,7 +38,7 @@ class BaseConfig:
 
 class DevelopConfig(BaseConfig):
     DEBUG = True
-    GUACD_PATH = 'localhost'
+    GUACD_PATH = '127.0.0.1'
     GUACD_PORT = 4822
 
 

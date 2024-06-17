@@ -19,7 +19,7 @@ $ source env/bin/activate
 (env) pip install -r requirements.txt
 ```
  
-- Set the guacd host and port in config.py (defaults to 127.0.0.1:4832)
+- Set the guacd host and port in config.py (defaults to 127.0.0.1:4822)
 
 - `(env) python app.py` and access http://localhost:5000 in your browser
 

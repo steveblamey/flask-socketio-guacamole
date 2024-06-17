@@ -26,5 +26,5 @@ $ source env/bin/activate
 ## Notes
 
 flask-socketio-guacamole is licensed under the MIT License.
-Appreciate to [pygocamole](https://github.com/mohabusama/pyguacamole) and 
+Thanks to [pyguacamole](https://github.com/mohabusama/pyguacamole) and 
 [guacamole-client/guacamole-common-js](https://github.com/apache/guacamole-client/tree/master/guacamole-common-js).
